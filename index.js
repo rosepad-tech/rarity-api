@@ -1,6 +1,6 @@
 
 var express = require("express");
-var jsonLookup = require('./test/traits_guide.json')
+var jsonLookup = require('./calculator-feed/traits_guide.json')
 var app = express();
 app.listen(3000, () => {
     console.log("Server running on port 3000");
@@ -12,16 +12,16 @@ app.get("/test", (req, res, next) => {
 
 app.get("/metadata/:tokenId", (req, res, next) => {
     var tokenId = req.params.tokenId;
-    var jsonData = require('./test/roseape_data/' + tokenId + '.json');
+    var jsonData = require('./calculator-feed/roseape_data/' + tokenId + '.json');
     res.json(jsonData);
 });
 
 app.get("/metadata-traits/:tokenId", (req, res, next) => {
     var tokenId = req.params.tokenId;
     // get the ID of the user from the database
-    var jsonData = require('./test/roseape_data/' + tokenId + '.json')
+    var jsonData = require('./calculator-feed/roseape_data/' + tokenId + '.json')
     var totalSupply = jsonLookup["totalSupply"];
-    //var totalSupply = 5555;
+    var totalSupply = 5555;
     var totalRarityScore = 0;
     var traitsResponse = {
         metadata: {
@@ -95,7 +95,7 @@ app.get("/metadata-traits/:tokenId", (req, res, next) => {
 app.get("/traits/:tokenId", (req, res, next) => {
     var tokenId = req.params.tokenId;
     // get the ID of the user from the database
-    var jsonData = require('./test/roseape_data/' + tokenId + '.json')
+    var jsonData = require('./calculator-feed/roseape_data/' + tokenId + '.json')
     var totalSupply = jsonLookup["totalSupply"];
     //var totalSupply = 5555;
     var totalRarityScore = 0;
