@@ -21,7 +21,7 @@ app.get("/metadata-traits/:tokenId", (req, res, next) => {
     // get the ID of the user from the database
     var jsonData = require('./calculator-feed/roseape_data/' + tokenId + '.json')
     var totalSupply = jsonLookup["totalSupply"];
-    var totalSupply = 5555;
+    //var totalSupply = 5555;
     var totalRarityScore = 0;
     var traitsResponse = {
         metadata: {
