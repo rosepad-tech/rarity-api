@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#1077",
+  "description": "Brutally enhance RoseApe variant - 1077",
+  "image": "/1077.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "rose_network"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gibbon_Anthophile"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "punk"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "octo"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "one_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "kid"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mad"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "trans"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "heart_you"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "filcoin"
+    }
+  ]
+}

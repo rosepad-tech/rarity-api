@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#194",
+  "description": "Brutally enhance RoseApe variant - 194",
+  "image": "/194.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "sliding_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Orangutan_Botanist"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "formal"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "cyber"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "retro_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "blue_gold_black"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "king"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "center_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "heart_you"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "bnb"
+    }
+  ]
+}

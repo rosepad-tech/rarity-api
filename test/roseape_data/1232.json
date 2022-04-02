@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#1232",
+  "description": "Brutally enhance RoseApe variant - 1232",
+  "image": "/1232.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "sliding_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gibbon_Anthophile"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "golden_mod"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "neon"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "kid"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "neon"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "side_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "three_color_gold"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "chainlink"
+    }
+  ]
+}

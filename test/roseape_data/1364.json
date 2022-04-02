@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#1364",
+  "description": "Brutally enhance RoseApe variant - 1364",
+  "image": "/1364.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "portrait_rose"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Bonobo_Connoisseur"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "green_jack"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "neon"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "one_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "call_neon"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mad"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "side_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "heart_you"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "oasis"
+    }
+  ]
+}

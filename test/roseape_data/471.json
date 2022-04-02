@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#471",
+  "description": "Brutally enhance RoseApe variant - 471",
+  "image": "/471.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "edge_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gorilla_Plantsmen"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "golden_mod"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "skull"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "terminate"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "pink"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "king"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "side_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_ancient"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "chainlink"
+    }
+  ]
+}

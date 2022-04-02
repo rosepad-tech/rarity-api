@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#541",
+  "description": "Brutally enhance RoseApe variant - 541",
+  "image": "/541.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "rose_network"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "the_base"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "pink_scarf"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "cyber"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "modern_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "blue_gold_black"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "neon"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "rose_full"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "bone_gold"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "eth"
+    }
+  ]
+}

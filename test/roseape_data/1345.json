@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#1345",
+  "description": "Brutally enhance RoseApe variant - 1345",
+  "image": "/1345.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "rose_network"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gibbon_Anthophile"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "pink_scarf"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "gold_ear"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "modern_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "call_neon"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "diplomat"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "side_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_ancient"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "oasis"
+    }
+  ]
+}

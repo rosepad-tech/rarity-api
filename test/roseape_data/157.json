@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#157",
+  "description": "Brutally enhance RoseApe variant - 157",
+  "image": "/157.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "rose_network"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "the_base"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "punk"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "cyber"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "terminate"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "pink"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "base"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "side_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "bone_gold"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "opensea"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#383",
+  "description": "Brutally enhance RoseApe variant - 383",
+  "image": "/383.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "walkoff_rose"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Bonobo_Connoisseur"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "hip"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "reptile"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "tank"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden_hat"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "gold_teeth"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "single"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "embed"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "protocollabs"
+    }
+  ]
+}

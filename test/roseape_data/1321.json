@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#1321",
+  "description": "Brutally enhance RoseApe variant - 1321",
+  "image": "/1321.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "rose_network"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Bonobo_Connoisseur"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "pink_scarf"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "tron"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "robot"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "blue_gold_black"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "king"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "side"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "cyborg"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "btc"
+    }
+  ]
+}

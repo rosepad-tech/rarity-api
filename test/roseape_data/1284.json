@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#1284",
+  "description": "Brutally enhance RoseApe variant - 1284",
+  "image": "/1284.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "formal_portrait"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Chimpanzee_Apprentice"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "green_jack"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "reptile"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "modern_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "call_neon"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "king"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "rendo"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "bone_gold"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "filcoin"
+    }
+  ]
+}

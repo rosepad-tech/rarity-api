@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#56",
+  "description": "Brutally enhance RoseApe variant - 56",
+  "image": "/56.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "abstract_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Orangutan_Botanist"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "hip"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "tron"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "tank"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mad"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "rendo"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_ancient"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "btc"
+    }
+  ]
+}

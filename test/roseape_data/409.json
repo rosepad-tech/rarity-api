@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#409",
+  "description": "Brutally enhance RoseApe variant - 409",
+  "image": "/409.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "portrait_rose"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Orangutan_Botanist"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "pink_scarf"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "tron"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "neon"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "king"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "center_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_ancient"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "protocollabs"
+    }
+  ]
+}

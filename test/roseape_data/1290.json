@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#1290",
+  "description": "Brutally enhance RoseApe variant - 1290",
+  "image": "/1290.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "sliding_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gibbon_Anthophile"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "pink_scarf"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "neon"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "retro"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "rose_full"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "snake"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "filcoin"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#15",
+  "description": "Brutally enhance RoseApe variant - 15",
+  "image": "/15.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "flash_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gorilla_Plantsmen"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "hip"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "golden_close"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "terminate"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden_hat"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "neon"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "formal"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "snake"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "opensea"
+    }
+  ]
+}

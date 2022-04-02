@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#457",
+  "description": "Brutally enhance RoseApe variant - 457",
+  "image": "/457.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "sliding_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Orangutan_Botanist"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "green_jack"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "golden_close"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "robot"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "king"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "single"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_neck"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "bnb"
+    }
+  ]
+}

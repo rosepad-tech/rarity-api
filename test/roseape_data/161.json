@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#161",
+  "description": "Brutally enhance RoseApe variant - 161",
+  "image": "/161.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "flash_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Bonobo_Connoisseur"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "golden_mod"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "cyber_punk"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "terminate"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "base"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "center_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "heart_you"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "protocollabs"
+    }
+  ]
+}

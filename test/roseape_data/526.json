@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#526",
+  "description": "Brutally enhance RoseApe variant - 526",
+  "image": "/526.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "rose_gallery"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Bonobo_Connoisseur"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "pink_scarf"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "cyber_punk"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "wild_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "pink"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "diplomat"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "large_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "snake"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "chainlink"
+    }
+  ]
+}

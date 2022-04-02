@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#250",
+  "description": "Brutally enhance RoseApe variant - 250",
+  "image": "/250.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "edge_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Bonobo_Connoisseur"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "tron"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "cyber"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "retro_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "king"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "brutal"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "rose_full"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "cyborg"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "oasis"
+    }
+  ]
+}

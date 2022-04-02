@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#40",
+  "description": "Brutally enhance RoseApe variant - 40",
+  "image": "/40.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "lazer_floor"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Chimpanzee_Apprentice"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "tron"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "reptile"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "retro_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "neon"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "diplomat"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "center_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "bone_gold"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "oasis"
+    }
+  ]
+}

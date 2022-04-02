@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#1310",
+  "description": "Brutally enhance RoseApe variant - 1310",
+  "image": "/1310.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "portrait_rose"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gibbon_Anthophile"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "golden_mod"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "tron"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "terminate"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden_hat"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "diplomat"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "rendo"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_neck"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "eth"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#293",
+  "description": "Brutally enhance RoseApe variant - 293",
+  "image": "/293.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "flash_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "the_base"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "golden_mod"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "golden_close"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "wild_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "neon"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "playful"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "rose_full"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_neck"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "bnb"
+    }
+  ]
+}

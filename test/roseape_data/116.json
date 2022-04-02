@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#116",
+  "description": "Brutally enhance RoseApe variant - 116",
+  "image": "/116.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "lazer_floor"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Bonobo_Connoisseur"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "hip"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "skull"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "one_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "kid"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "diplomat"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "rose_full"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "cyborg"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "chainlink"
+    }
+  ]
+}

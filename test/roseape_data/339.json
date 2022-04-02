@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#339",
+  "description": "Brutally enhance RoseApe variant - 339",
+  "image": "/339.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "formal_portrait"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "the_base"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "green_jack"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "cyber_punk"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "wild_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "kid"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mad"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "trans"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_shrimp"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "opensea"
+    }
+  ]
+}

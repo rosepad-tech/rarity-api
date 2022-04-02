@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#1054",
+  "description": "Brutally enhance RoseApe variant - 1054",
+  "image": "/1054.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "flash_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gibbon_Anthophile"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "formal"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "rangle"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "robot"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "pink"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "clown"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "rose_full"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "bone_gold"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "btc"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#609",
+  "description": "Brutally enhance RoseApe variant - 609",
+  "image": "/609.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "walkoff_rose"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Bonobo_Connoisseur"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "pink_scarf"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "octo"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "black_gold"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "base"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "single"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_ancient"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "btc"
+    }
+  ]
+}

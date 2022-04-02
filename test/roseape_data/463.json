@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#463",
+  "description": "Brutally enhance RoseApe variant - 463",
+  "image": "/463.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "formal_portrait"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Chimpanzee_Apprentice"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "pink_scarf"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "cyber_punk"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "wild_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "black_gold"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "diplomat"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "center"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "rbg"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "btc"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#422",
+  "description": "Brutally enhance RoseApe variant - 422",
+  "image": "/422.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "lazer_floor"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Orangutan_Botanist"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "golden_mod"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "skull"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "terminate"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "pink"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "neon"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "rose_full"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "cyborg"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "solana"
+    }
+  ]
+}

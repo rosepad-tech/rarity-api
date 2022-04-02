@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#593",
+  "description": "Brutally enhance RoseApe variant - 593",
+  "image": "/593.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "lazer_floor"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Chimpanzee_Apprentice"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "hip"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "neon"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "modern_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "mad"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "center"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "cyborg"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "opensea"
+    }
+  ]
+}

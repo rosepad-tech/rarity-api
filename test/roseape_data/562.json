@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#562",
+  "description": "Brutally enhance RoseApe variant - 562",
+  "image": "/562.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "rose_network"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Chimpanzee_Apprentice"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "golden_mod"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "tron"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "one_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "black_gold"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "neon"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "side_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "rbg"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "filcoin"
+    }
+  ]
+}

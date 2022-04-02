@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#259",
+  "description": "Brutally enhance RoseApe variant - 259",
+  "image": "/259.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "rose_network"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gorilla_Plantsmen"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "hip"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "neon"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "retro"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "kid"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "king"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "side"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "rbg"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "btc"
+    }
+  ]
+}

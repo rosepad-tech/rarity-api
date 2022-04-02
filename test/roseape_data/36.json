@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#36",
+  "description": "Brutally enhance RoseApe variant - 36",
+  "image": "/36.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "flash_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gibbon_Anthophile"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "hip"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "skull"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "retro_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "brain"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "neon"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "single"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "rbg"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "filcoin"
+    }
+  ]
+}

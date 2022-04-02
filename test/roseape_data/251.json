@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#251",
+  "description": "Brutally enhance RoseApe variant - 251",
+  "image": "/251.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "portrait_rose"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gibbon_Anthophile"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "golden_mod"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "golden_close"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "diplomat"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "rose_full"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "heart_you"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "oasis"
+    }
+  ]
+}

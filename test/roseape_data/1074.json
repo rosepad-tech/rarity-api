@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#1074",
+  "description": "Brutally enhance RoseApe variant - 1074",
+  "image": "/1074.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "edge_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gorilla_Plantsmen"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "green_jack"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "neon"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "modern_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "neon"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "brutal"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "large_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "three_color_gold"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "solana"
+    }
+  ]
+}

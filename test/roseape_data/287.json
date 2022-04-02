@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#287",
+  "description": "Brutally enhance RoseApe variant - 287",
+  "image": "/287.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "abstract_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gibbon_Anthophile"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "green_jack"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "tron"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "retro_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "blue_gold_black"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "clown"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "center"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "bone_gold"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "opensea"
+    }
+  ]
+}

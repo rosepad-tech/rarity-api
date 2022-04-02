@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#317",
+  "description": "Brutally enhance RoseApe variant - 317",
+  "image": "/317.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "flash_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Orangutan_Botanist"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "green_jack"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "golden_close"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "one_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden_hat"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "side"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "cyborg"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "filcoin"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#297",
+  "description": "Brutally enhance RoseApe variant - 297",
+  "image": "/297.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "walkoff_rose"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Chimpanzee_Apprentice"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "punk"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "rangle"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "silver"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden_hat"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "neon"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "center"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_neck"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "bnb"
+    }
+  ]
+}

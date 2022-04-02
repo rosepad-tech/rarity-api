@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#395",
+  "description": "Brutally enhance RoseApe variant - 395",
+  "image": "/395.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "sliding_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Bonobo_Connoisseur"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "golden_mod"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "golden_close"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "tank"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "black_gold"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "clown"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "large_rose"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "heart_you"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "protocollabs"
+    }
+  ]
+}

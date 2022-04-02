@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#1312",
+  "description": "Brutally enhance RoseApe variant - 1312",
+  "image": "/1312.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "formal_portrait"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "the_base"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "green_jack"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "tron"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "silver"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "call_neon"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "clown"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "formal"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "three_color_gold"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "eth"
+    }
+  ]
+}

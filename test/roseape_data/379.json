@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#379",
+  "description": "Brutally enhance RoseApe variant - 379",
+  "image": "/379.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "edge_back"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Chimpanzee_Apprentice"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "formal"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "cyber"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "retro"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "side"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "embed"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "chainlink"
+    }
+  ]
+}

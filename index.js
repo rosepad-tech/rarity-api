@@ -46,7 +46,6 @@ app.get("/traits/:tokenId", (req, res, next) => {
             traitsResponse.traitRarityScores.baseape = 1 / (jsonLookup.traitsTotal[lookupName] / totalSupply);
         }
         if (attribute.trait_type == "2baseclothes") {
-            console.log(jsonLookup.traitsTotal[lookupName]);
             traitsResponse.traitRarityScores.baseclothes = 1 / (jsonLookup.traitsTotal[lookupName] / totalSupply);
         }
         if (attribute.trait_type == "3earrings") {

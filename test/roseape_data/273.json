@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#273",
+  "description": "Brutally enhance RoseApe variant - 273",
+  "image": "/273.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "formal_portrait"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Orangutan_Botanist"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "pink_scarf"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "octo"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "wild_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "zombie"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "trans"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_ancient"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "protocollabs"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#434",
+  "description": "Brutally enhance RoseApe variant - 434",
+  "image": "/434.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "lazer_floor"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gibbon_Anthophile"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "golden_mod"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "octo"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "robot"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "playful"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "formal"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_ancient"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "eth"
+    }
+  ]
+}

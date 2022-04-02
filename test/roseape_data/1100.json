@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#1100",
+  "description": "Brutally enhance RoseApe variant - 1100",
+  "image": "/1100.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "rose_gallery"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Gibbon_Anthophile"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "golden_mod"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "reptile"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "robot"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "golden"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "brutal"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "center"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "gold_neck"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "solana"
+    }
+  ]
+}

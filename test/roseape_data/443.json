@@ -1,0 +1,47 @@
+{
+  "name": "ROSEAPE#443",
+  "description": "Brutally enhance RoseApe variant - 443",
+  "image": "/443.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "walkoff_rose"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Bonobo_Connoisseur"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "golden_mod"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "octo"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "wild_neon"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "pink"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "base"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "formal"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "rbg"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "opensea"
+    }
+  ]
+}
