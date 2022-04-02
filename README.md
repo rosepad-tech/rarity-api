@@ -13,3 +13,13 @@
 /trait-guidelines
 ```
 
+### To Get metadata
+
+```
+/metadata/:tokenId
+```
+
+### To get entire metadata plus rarity
+```
+/metadata-traits/:tokenId
+```
