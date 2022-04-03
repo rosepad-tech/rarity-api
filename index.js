@@ -1,22 +1,36 @@
 
 var express = require("express");
+var cors = require('cors')
 var jsonLookup = require('./calculator-feed/traits_guide.json')
+
 var app = express();
+app.use(cors());
+var allowlist = ['http://mint.roseape.io', 'http://localhost:3000']
+var corsOptionsDelegate = function (req, callback) {
+    var corsOptions;
+    if (allowlist.indexOf(req.header('Origin')) !== -1) {
+        corsOptions = { origin: true } // reflect (enable) the requested origin in the CORS response
+    } else {
+        corsOptions = { origin: false } // disable CORS for this request
+    }
+    callback(null, corsOptions) // callback expects two parameters: error and options
+}
+
 app.listen(3000, () => {
     console.log("Server running on port 3000");
 });
 
-app.get("/test", (req, res, next) => {
+app.get("/test", cors(corsOptionsDelegate), (req, res, next) => {
     res.json(["alvin", "calvin", "rachelle"]);
 });
 
-app.get("/metadata/:tokenId", (req, res, next) => {
+app.get("/metadata/:tokenId", cors(corsOptionsDelegate), (req, res, next) => {
     var tokenId = req.params.tokenId;
     var jsonData = require('./calculator-feed/roseape_data/' + tokenId + '.json');
     res.json(jsonData);
 });
 
-app.get("/metadata-traits/:tokenId", (req, res, next) => {
+app.get("/metadata-traits/:tokenId", cors(corsOptionsDelegate), (req, res, next) => {
     var tokenId = req.params.tokenId;
     // get the ID of the user from the database
     var jsonData = require('./calculator-feed/roseape_data/' + tokenId + '.json')
@@ -49,8 +63,8 @@ app.get("/metadata-traits/:tokenId", (req, res, next) => {
 
     jsonData.attributes.forEach(function (attribute) {
         lookupName = attribute.trait_type + "_" + attribute.value;
-        
-        if (attribute.trait_type == "0background") {    
+
+        if (attribute.trait_type == "0background") {
             traitsResponse.traitRarityScores.background = 1 / (jsonLookup.traitsTotal[lookupName] / totalSupply);
         }
         if (attribute.trait_type == "1baseape") {
@@ -82,17 +96,17 @@ app.get("/metadata-traits/:tokenId", (req, res, next) => {
         }
     });
 
-    for(var key in traitsResponse.traitRarityScores) {
+    for (var key in traitsResponse.traitRarityScores) {
         totalRarityScore += traitsResponse.traitRarityScores[key];
     }
-    
+
     traitsResponse.totalRarityScore = totalRarityScore;
     traitsResponse.totalSupply = totalSupply;
 
     res.json(traitsResponse);
 });
 
-app.get("/traits/:tokenId", (req, res, next) => {
+app.get("/traits/:tokenId", cors(corsOptionsDelegate), (req, res, next) => {
     var tokenId = req.params.tokenId;
     // get the ID of the user from the database
     var jsonData = require('./calculator-feed/roseape_data/' + tokenId + '.json')
@@ -119,8 +133,8 @@ app.get("/traits/:tokenId", (req, res, next) => {
 
     jsonData.attributes.forEach(function (attribute) {
         lookupName = attribute.trait_type + "_" + attribute.value;
-        
-        if (attribute.trait_type == "0background") {    
+
+        if (attribute.trait_type == "0background") {
             traitsResponse.traitRarityScores.background = 1 / (jsonLookup.traitsTotal[lookupName] / totalSupply);
         }
         if (attribute.trait_type == "1baseape") {
@@ -152,16 +166,16 @@ app.get("/traits/:tokenId", (req, res, next) => {
         }
     });
 
-    for(var key in traitsResponse.traitRarityScores) {
+    for (var key in traitsResponse.traitRarityScores) {
         totalRarityScore += traitsResponse.traitRarityScores[key];
     }
-    
+
     traitsResponse.totalRarityScore = totalRarityScore;
     traitsResponse.totalSupply = totalSupply;
 
     res.json(traitsResponse);
 });
 
-app.get("/traits-guideline", (req, res, next) => {
+app.get("/traits-guideline", cors(corsOptionsDelegate), (req, res, next) => {
     res.json(jsonLookup);
 });
