@@ -5,7 +5,7 @@ var jsonLookup = require('./calculator-feed/traits_guide.json')
 
 var app = express();
 app.use(cors());
-var allowlist = ['http://mint.roseape.io', 'http://localhost:3000']
+var allowlist = ['https://mint.roseape.io', 'http://localhost:3000']
 var corsOptionsDelegate = function (req, callback) {
     var corsOptions;
     if (allowlist.indexOf(req.header('Origin')) !== -1) {
