@@ -1,1 +1,47 @@
-{"name":"#hidden.png","description":"hidden roseape","image":"/hidden.png"}
+{
+  "name": "ROSEAPE#1532",
+  "description": "Brutally enhance RoseApe variant - 1532",
+  "image": "/1532.png",
+  "attributes": [
+    {
+      "trait_type": "0background",
+      "value": "walkoff_rose"
+    },
+    {
+      "trait_type": "1baseape",
+      "value": "Chimpanzee_Apprentice"
+    },
+    {
+      "trait_type": "2baseclothes",
+      "value": "blank"
+    },
+    {
+      "trait_type": "3earrings",
+      "value": "blank"
+    },
+    {
+      "trait_type": "4eyes",
+      "value": "blank"
+    },
+    {
+      "trait_type": "5headwear",
+      "value": "blank"
+    },
+    {
+      "trait_type": "6mouth",
+      "value": "blank"
+    },
+    {
+      "trait_type": "7roses",
+      "value": "blank"
+    },
+    {
+      "trait_type": "8necklace",
+      "value": "blank"
+    },
+    {
+      "trait_type": "9crypto",
+      "value": "chainlink"
+    }
+  ]
+}
