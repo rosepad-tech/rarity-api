@@ -64,6 +64,9 @@ app.get("/metadata-traits/:tokenId", cors(corsOptionsDelegate), (req, res, next)
     jsonData.attributes.forEach(function (attribute) {
         lookupName = attribute.trait_type + "_" + attribute.value;
 
+        if (jsonLookup[lookupName] != undefined) {
+            console.log(">>>>");
+        }
         if (attribute.trait_type == "0background") {
             traitsResponse.traitRarityScores.background = 1 / (jsonLookup.traitsTotal[lookupName] / totalSupply);
         }

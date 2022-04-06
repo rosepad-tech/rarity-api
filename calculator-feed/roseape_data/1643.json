@@ -15,33 +15,11 @@
       "trait_type": "2baseclothes",
       "value": "golden_mod"
     },
-    {
-      "trait_type": "3earrings",
-      "value": "blank"
-    },
-    {
-      "trait_type": "4eyes",
-      "value": "blank"
-    },
-    {
-      "trait_type": "5headwear",
-      "value": "blank"
-    },
-    {
-      "trait_type": "6mouth",
-      "value": "blank"
-    },
+
+
     {
       "trait_type": "7roses",
       "value": "single"
-    },
-    {
-      "trait_type": "8necklace",
-      "value": "blank"
-    },
-    {
-      "trait_type": "9crypto",
-      "value": "blank"
     }
   ]
 }
