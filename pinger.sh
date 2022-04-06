@@ -9,8 +9,8 @@ ipfsHash=$1 #QmQpFpmyXwcJkU2dKmzemtjNLqYQw9XwQjqp4hUY8xU8Xx
 total=0
 line=0
 newline="\n"
-echo "NFT ID,Token Number,background,baseape,baseclothes,earrings,eyes,headwear,mouth,roses,necklace,crypto" >> ForMedian.csv
-for i in {1..1800}
+#echo "NFT ID,Token Number,background,baseape,baseclothes,earrings,eyes,headwear,mouth,roses,necklace,crypto" >> ForMedian.csv
+for i in {1777..1800}
 do
     
     score=$(curl -X GET "https://rarity-api.roseape.io/metadata-traits/"$i -H "accept: application/json" | jq '.totalRarityScore, .traitRarityScores.background, .traitRarityScores.baseape, .traitRarityScores.baseclothes, .traitRarityScores.earrings, .traitRarityScores.eyes, .traitRarityScores.headwear , .traitRarityScores.mouth, .traitRarityScores.roses , .traitRarityScores.necklace,  .traitRarityScores.crypto')
